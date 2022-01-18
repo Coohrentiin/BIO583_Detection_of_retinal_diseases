@@ -1,5 +1,5 @@
 # BIO583_Detection_of_retinal_diseases
-*Retinal fundoscopy image processing for early detection of retinal diseases such as AMD. Project by Astrid Nilsson and Corentin Soubeiran* 
+*Retinal fundoscopy or OCT image processing for early detection of retinal diseases such as  diabetic retinopathy or AMD. Project by Astrid Nilsson and Corentin Soubeiran* 
 
 ## Dataset research
 *Motivations:* https://retinatoday.com/articles/2007-nov/1107_03-php
