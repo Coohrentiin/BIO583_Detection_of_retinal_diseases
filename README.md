@@ -33,6 +33,11 @@ https://data.mendeley.com/datasets/2wxnrd832j/1
 - **Duke** 3DOCT: Individual SDOCT images and marking: 38400 BScans from 269 AMD patients and 115 normal subjects
 https://people.duke.edu/~sf59/RPEDC_Ophth_2013_dataset.htm
 
-- 2DOCT: 470 images: age-related macular degeneration (57), macular hole (104), central serous retinopathy (109), healthy eyes (208)
+- **OCTID, 2DOCT**: 470 images: age-related macular degeneration (57), macular hole (104), central serous retinopathy (109), healthy eyes (208)
 https://dataverse.scholarsportal.info/dataverse/OCTID
 
+
+## Documentation
+
+- Clinical OCT for retina imaging: https://www.opsweb.org/page/RetinalOCT
+- Fundoscopy: https://stanfordmedicine25.stanford.edu/the25/fundoscopic.html
