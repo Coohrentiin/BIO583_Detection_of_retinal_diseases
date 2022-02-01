@@ -21,9 +21,9 @@
 ## Dataset research
 *Motivations:* https://retinatoday.com/articles/2007-nov/1107_03-php
 
-*Exemples:* 
-- https://www.researchgate.net/publication/351421835_Artificial_intelligence_for_the_detection_of_age-related_macular_degeneration_in_color_fundus_photographs_A_systematic_review_and_meta-analysis
-- https://pubmed.ncbi.nlm.nih.gov/30610422/
+*Exemples of studies:* 
+- Based on CNN with fundus images: https://www.degruyter.com/document/doi/10.1515/comp-2020-0177/html
+- Based on VGG16 with OCT images https://pubmed.ncbi.nlm.nih.gov/30610422/
 
 *DATASET:*
 a lot of them from: https://www.thelancet.com/journals/landig/article/PIIS2589-7500(20)30240-5/fulltext
