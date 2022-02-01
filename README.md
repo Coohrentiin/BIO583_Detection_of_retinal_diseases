@@ -18,8 +18,9 @@ https://www5.cs.fau.de/research/data/fundus-images/
 https://ieee-dataport.org/open-access/retinal-fundus-multi-disease-image-dataset-rfmid
 https://www.kaggle.com/c/aptos2019-blindness-detection/data
 
-- Fundus: 300 healthy, 100 cataract, 100 glaucoma, 100 other retinal diseases.
+- **Kaggle Fundus**: 300 healthy, 100 cataract, 100 glaucoma, 100 other retinal diseases.
 https://www.kaggle.com/jr2ngb/cataractdataset
+	> See example
 
 - Fundus and 3D-OCT: 22 images from random patient
 https://sites.google.com/site/hosseinrabbanikhorasgani/datasets-1/vessel-reg-oct-fundus
@@ -29,12 +30,15 @@ https://zenodo.org/record/1481223#.Xr06Q2gzbIU
 
 - **TaeKeun** Fundus and OCT: 59 normal eyes, 26 drusens, and 98 AMD eyes including both OCT and matched fundus images were obtained.
 https://data.mendeley.com/datasets/2wxnrd832j/1
+	> See dataset: images not adapted for a study
 
 - **Duke** 3DOCT: Individual SDOCT images and marking: 38400 BScans from 269 AMD patients and 115 normal subjects
 https://people.duke.edu/~sf59/RPEDC_Ophth_2013_dataset.htm
+	> See example
 
 - **OCTID, 2DOCT**: 470 images: age-related macular degeneration (57), macular hole (104), central serous retinopathy (109), healthy eyes (208)
 https://dataverse.scholarsportal.info/dataverse/OCTID
+	> See example
 
 
 ## Documentation
