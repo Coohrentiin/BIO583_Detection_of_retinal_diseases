@@ -1,6 +1,23 @@
 # BIO583_Detection_of_retinal_diseases
 *Retinal fundoscopy or OCT image processing for early detection of retinal diseases such as  diabetic retinopathy or AMD. Project by Astrid Nilsson and Corentin Soubeiran* 
 
+## Project: 
+
+2 idées principales:
+- Travailler sur des données OCT pour distinguer les cornée pathologique atteinte de DMLA (AMD) et les cornées saines. Deux approches peuvent être envisagées:
+	- Quantitative, en travaillant sur des mesures géométriques et statistiques 
+	- Par "IA" utiliser par exemple des CNN comme classificateurs
+
+	Deux dataset suite à nos recherches semblent propices:
+	- OCTID, 2DOCT: assez leger en terme de volume avec des images OCT en 2D.
+	- Duke 3DOCT: plus lourd avec des images en volume qui demandera sans doute un pré-traitement mais dont les données sont plus "brute"
+	
+	Quelques image de ces bases de données sont donné dans le dossier *data* et des jupiter_nootbook d'exemple de donnée se trouvent dans le dossier principal.
+- Travailler sur des images de fond de l'oeil (fundus). Ce travail permettrait également de concevoir un classificateur pour distinguer les cornées saines et pathologique comme cataract et glaucome. Pour cela suite à nos recherche la base de donnée la plus propice semble être Kaggle Fundus. Encore une fois plusieurs approches possibles
+	- Quantitatif avec un analyse de texture 
+	- Via IA et CNN
+	Quelques images sont donnée à titre d'exemple dans le dossier *data* et un jupiter_nootbook d'exemple de donnée se trouvent dans le dossier principal.
+
 ## Dataset research
 *Motivations:* https://retinatoday.com/articles/2007-nov/1107_03-php
 
