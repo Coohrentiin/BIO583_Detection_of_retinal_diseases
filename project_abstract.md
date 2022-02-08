@@ -9,9 +9,9 @@ Les examens classiques pour l'identification de la DMLA sont le fond de l'oeil e
 
 ## Projet
 
-Au cours de ce projet nous proposons de réaliser un algorithme d'aide au diagnostic via des images d'OCT permettant la distinction de rétine saines et atteinte de la DMLA. Pour cela nous avons accès à deux bases de données regroupant des images OCT labélisés 2D *[7]* et 3D *[8]*.
+Au cours de ce projet nous proposons de réaliser un algorithme d'aide au diagnostic via des images d'OCT permettant la distinction de rétines saines et atteintes de la DMLA. Pour cela nous avons accès à deux bases de données regroupant des images OCT labélisées 2D *[7]* et 3D *[8]*.
 
-Nous tenterons dans un premier temps des approches quantitatives inspirées de *[8]* avant de tenter des approches basées sur des réseaux de neurones à convolution (CNN) comme dans *[5]*. Enfin une approche plus large de classification de différents types de rétinopathie pourra être tenté en utilisant les autres labels offerts par *[7]*
+Nous tenterons dans un premier temps des approches quantitatives inspirées de *[8]* avant de tenter des approches basées sur des réseaux de neurones à convolution (CNN) comme dans *[5]*. Enfin une approche plus large de classification de différents types de rétinopathie pourra être tentée en utilisant les autres labels offerts par *[7]*
 
 ## Calendrier
 
@@ -24,7 +24,7 @@ Nous tenterons dans un premier temps des approches quantitatives inspirées de *
 
 ## Bases de données:
 
-Voir **README.md** et les différents Jupiter notebook
+Voir **README.md** et les différents Jupyter notebook
 
 ## Références:
 
