@@ -11,15 +11,17 @@ Les examens classiques pour l'identification de la DMLA sont le fond de l'oeil e
 
 Au cours de ce projet nous proposons de réaliser un algorithme d'aide au diagnostic via des images d'OCT permettant la distinction de rétines saines et atteintes de la DMLA. Pour cela nous avons accès à deux bases de données regroupant des images OCT labélisées 2D *[7]* et 3D *[8]*.
 
-Nous tenterons dans un premier temps des approches quantitatives inspirées de *[8]* avant de tenter des approches basées sur des réseaux de neurones à convolution (CNN) comme dans *[5]*. Enfin une approche plus large de classification de différents types de rétinopathie pourra être tentée en utilisant les autres labels offerts par *[7]*
+Nous tenterons dans un premier temps des approches quantitatives inspirées de *[8]* avant de tenter des approches basées sur des réseaux de neurones à convolution (CNN) comme dans *[5]*. 
+
+Pour cela nous utiliserons la base de donnée d'OCT 3D *[8]* (qui ont l'avantage de fournir un plus grand dataset)que nous prétraiterons pour rentre ces données 2D. Après avoir entrainé et validé nos deux solutions sur ces données, nous évalurons la robustesse de notre algorithme de detection automatique sur les données de *[7]* 2D.
 
 ## Calendrier
 
-- Semaine 1 (7/02): Détails du projet
-- Semaine 2 (14/02): Création d'une classe de prétraitement des images, mise en place des bases de données et extraction des données 
-- Semaine 3 (21/02): Implémentation de la solution 1
-- Semaine 4 (28/02): Implémentation de la solution 2 (CNN)
-- Semaine 5 (7/02):  Implémentation de la solution 2 et test sur d'autres classes.
+- Semaine 1 (7/02): Détails du projet, création d'une classe de prétraitement des images, mise en place des bases de données et extraction des données.
+- Semaine 2 (14/02): Implémentation de la solution 1.
+- Semaine 3 (21/02): Implémentation de la solution 1.
+- Semaine 4 (28/02): Implémentation de la solution 2 (CNN).
+- Semaine 5 (7/02):  Implémentation de la solution 2 et validation sur second dataset.
 - Semaine 6 (14/03): Evaluation orale
 
 ## Bases de données:
