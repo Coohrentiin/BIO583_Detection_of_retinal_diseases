@@ -38,7 +38,7 @@ Voir **README.md** et les différents Jupyter notebook
 
 [4]: [Z. Liang, D. W. K. Wong, J. Liu, K. L. Chan and T. Y. Wong, "Towards automatic detection of age-related macular degeneration in retinal fundus images," 2010 Annual International Conference of the IEEE Engineering in Medicine and Biology, 2010](https://ieeexplore.ieee.org/abstract/document/5627289?casa_token=gXOoYKa8wl8AAAAA:rAshN0vRkncLP98Z92Y5rulrp7Y77ZTxxZ7-RJTM7b__sPm8TWyNqIR-zkP1RwPP9ruAAhYnip-V)
 
-[5]: [Apostolopoulos, Stefanos & Ciller, Carlos & De Zanet, Sandro & Wolf, Sebastian & Sznitman, Raphael. (2016). RetiNet: Automatic AMD identification in OCT volumetric data. ](https://www.researchgate.net/publication/309037274_RetiNet_Automatic_AMD_identification_in_OCT_volumetric_data/citation/download)
+[5]: [Apostolopoulos, Stefanos & Ciller, Carlos & De Zanet, Sandro & Wolf, Sebastian & Sznitman, Raphael. (2016). RetiNet: Automatic AMD identification in OCT volumetric data. ](https://www.researchgate.net/publication/309037274_RetiNet_Automatic_AMD_identification_in_OCT_volumetric_data)
 
 [6]: [Wang, Yu & Zhang, Yaonan & Yao, Zhaomin & Zhao, Ruixue & Zhou, Fengfeng. (2016). Machine learning based detection of age-related macular degeneration (AMD) and diabetic macular edema (DME) from optical coherence tomography (OCT) images. Biomedical Optics Express. 7. 4928. 10.1364/BOE.7.004928. ](https://www.researchgate.net/publication/310823283_Machine_learning_based_detection_of_age-related_macular_degeneration_AMD_and_diabetic_macular_edema_DME_from_optical_coherence_tomography_OCT_images)
 
